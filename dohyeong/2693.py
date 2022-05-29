@@ -1,3 +1,5 @@
+import sys
+input=sys.stdin.readline
 m = int(input())
 
 arrs = [list(map(int, input().split())) for _ in range(m)]
