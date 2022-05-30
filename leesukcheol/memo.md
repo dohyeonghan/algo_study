@@ -1,0 +1,1 @@
+input method : var = list(map(int, input().split()))
